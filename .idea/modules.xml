@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloMaven/HelloMaven.iml" filepath="$PROJECT_DIR$/HelloMaven/HelloMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDEA workspace.iml" filepath="$PROJECT_DIR$/IDEA workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerJson/ServerJson.iml" filepath="$PROJECT_DIR$/ServerJson/ServerJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy_project/proxy_project.iml" filepath="$PROJECT_DIR$/proxy_project/proxy_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server_Servlet/server_Servlet.iml" filepath="$PROJECT_DIR$/server_Servlet/server_Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/学校/学校.iml" filepath="$PROJECT_DIR$/学校/学校.iml" />
+    </modules>
+  </component>
+</project>
